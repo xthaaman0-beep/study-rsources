@@ -1,6 +1,6 @@
 @ -1,328 +1,599 @@
 <<<<<<< HEAD
-# study-rsources
+# study-resources
 
 Initial commit
 

@@ -1,0 +1,590 @@
+[
+  {
+    "subject": "Economics",
+    "topics": ["Microeconomics", "Macroeconomics", "International Trade", "Development Economics", "Behavioral Economics", "Game Theory"],
+    "links": [
+      {"name": "Khan Academy Economics", "url": "https://www.khanacademy.org/economics-finance-domain"},
+      {"name": "MIT OpenCourseWare Economics", "url": "https://ocw.mit.edu/courses/find-by-topic/#cat=business&subcat=economics"},
+      {"name": "OpenLearn Economics", "url": "https://www.open.edu/openlearn/economics-business/economics"},
+      {"name": "Saylor Academy Microeconomics", "url": "https://learn.saylor.org/course/microeconomics/"},
+      {"name": "Saylor Academy Macroeconomics", "url": "https://learn.saylor.org/course/macroeconomics/"},
+      {"name": "Investopedia Economics Basics", "url": "https://www.investopedia.com/university/economics/"}
+    ]
+  },
+  {
+    "subject": "Business Administration",
+    "topics": ["Management Principles", "Marketing", "Operations Management", "Entrepreneurship", "Strategy", "HR Management"],
+    "links": [
+      {"name": "MIT OCW Sloan School", "url": "https://ocw.mit.edu/courses/sloan-school-of-management/"},
+      {"name": "OpenLearn Business & Management", "url": "https://www.open.edu/openlearn/money-business/business-studies"},
+      {"name": "Saylor Academy Business Administration", "url": "https://learn.saylor.org/course/business-administration/"},
+      {"name": "Coursera Free Business Courses", "url": "https://www.coursera.org/browse/business?free=true"},
+      {"name": "Alison Business Administration Diploma", "url": "https://alison.com/course/diploma-in-business-administration-management"},
+      {"name": "OpenStax Principles of Management (textbook)", "url": "https://openstax.org/details/books/principles-management"}
+    ]
+  },
+  {
+    "subject": "Finance & Accounting",
+    "topics": ["Corporate Finance", "Financial Accounting", "Managerial Accounting", "Investments", "Risk Management", "Financial Markets"],
+    "links": [
+      {"name": "Khan Academy Finance & Capital Markets", "url": "https://www.khanacademy.org/economics-finance-domain/core-finance"},
+      {"name": "MIT OCW Finance Courses", "url": "https://ocw.mit.edu/courses/sloan-school-of-management/finance/"},
+      {"name": "OpenLearn Accounting", "url": "https://www.open.edu/openlearn/money-business/accounting"},
+      {"name": "Saylor Academy Financial Accounting", "url": "https://learn.saylor.org/course/financial-accounting/"},
+      {"name": "Corporate Finance Institute Free Resources", "url": "https://courses.corporatefinanceinstitute.com/collections?type=free"},
+      {"name": "Investopedia Financial Tutorial", "url": "https://www.investopedia.com/financial-edge/education.aspx"}
+    ]
+  },
+  {
+    "subject": "Psychology",
+    "topics": ["Cognitive Psychology", "Behavioral Psychology", "Social Psychology", "Developmental Psychology", "Neuropsychology", "Abnormal Psychology"],
+    "links": [
+      {"name": "Khan Academy Psychology", "url": "https://www.khanacademy.org/test-prep/mcat/behavior"},
+      {"name": "MIT OCW Brain & Cognitive Sciences", "url": "https://ocw.mit.edu/courses/brain-and-cognitive-sciences/"},
+      {"name": "OpenStax Psychology (textbook)", "url": "https://openstax.org/details/books/psychology"},
+      {"name": "Saylor Academy Introduction to Psychology", "url": "https://learn.saylor.org/course/introduction-to-psychology/"},
+      {"name": "OpenLearn Psychology", "url": "https://www.open.edu/openlearn/psychology-mind"},
+      {"name": "Coursera Free Psychology Courses", "url": "https://www.coursera.org/browse/psychology?free=true"}
+    ]
+  },
+  {
+    "subject": "Sociology",
+    "topics": ["Social Structures", "Culture & Society", "Sociological Theory", "Deviance", "Globalization", "Urban Sociology"],
+    "links": [
+      {"name": "OpenLearn Sociology", "url": "https://www.open.edu/openlearn/society-politics-law/sociology"},
+      {"name": "Saylor Academy Introduction to Sociology", "url": "https://learn.saylor.org/course/introduction-to-sociology/"},
+      {"name": "MIT OCW Sociology", "url": "https://ocw.mit.edu/courses/find-by-topic/#cat=social-sciences&subcat=sociology"},
+      {"name": "Khan Academy Sociology (Basics)", "url": "https://www.khanacademy.org/humanities/ap-human-geography/social-science"},
+      {"name": "OpenStax Sociology (textbook)", "url": "https://openstax.org/books/introduction-sociology/pages/1-introduction"},
+      {"name": "Coursera Free Sociology Courses", "url": "https://www.coursera.org/browse/social-sciences/sociology?free=true"}
+    ]
+  },
+  {
+    "subject": "Political Science",
+    "topics": ["International Relations", "Political Theory", "Public Policy", "Comparative Politics", "Governance", "Political Economy"],
+    "links": [
+      {"name": "MIT OCW Political Science", "url": "https://ocw.mit.edu/courses/political-science/"},
+      {"name": "OpenLearn Politics & Governance", "url": "https://www.open.edu/openlearn/society-politics-law/politics-and-governance"},
+      {"name": "OpenStax American Government", "url": "https://openstax.org/details/books/american-government-2e"},
+      {"name": "Saylor Academy International Relations", "url": "https://learn.saylor.org/course/international-relations/"},
+      {"name": "Coursera Free Public Policy Courses", "url": "https://www.coursera.org/browse/social-sciences/public-policy?free=true"},
+      {"name": "Alison Diploma in Political Science", "url": "https://alison.com/course/diploma-in-political-science"}
+    ]
+  },
+  {
+    "subject": "Law & Legal Studies",
+    "topics": ["Constitutional Law", "Criminal Law", "International Law", "Human Rights", "Business Law", "Environmental Law"],
+    "links": [
+      {"name": "OpenLearn Law", "url": "https://www.open.edu/openlearn/society-politics-law/law"},
+      {"name": "MIT OCW Legal Studies", "url": "https://ocw.mit.edu/courses/find-by-topic/#cat=humanities&subcat=law"},
+      {"name": "Saylor Academy Business Law", "url": "https://learn.saylor.org/course/business-law/"},
+      {"name": "Saylor Academy International Law", "url": "https://learn.saylor.org/course/international-law/"},
+      {"name": "Coursera Free Law Courses", "url": "https://www.coursera.org/browse/social-sciences/law?free=true"},
+      {"name": "OpenStax Introduction to Criminal Justice (textbook)", "url": "https://openstax.org/details/books/introduction-criminal-justice-2e"}
+    ]
+  },
+  {
+    "subject": "History",
+    "topics": ["World History", "Modern History", "Ancient Civilizations", "Cultural History", "Economic History", "Political History"],
+    "links": [
+      {"name": "Khan Academy World History", "url": "https://www.khanacademy.org/humanities/world-history"},
+      {"name": "OpenLearn History", "url": "https://www.open.edu/openlearn/history-heritage"},
+      {"name": "MIT OCW History", "url": "https://ocw.mit.edu/courses/find-by-topic/#cat=humanities&subcat=history"},
+      {"name": "Saylor Academy World History", "url": "https://learn.saylor.org/course/world-history/"},
+      {"name": "Coursera Free History Courses", "url": "https://www.coursera.org/browse/social-sciences/history?free=true"},
+      {"name": "OpenStax US History", "url": "https://openstax.org/details/books/us-history"}
+    ]
+  },
+  {
+    "subject": "Geography",
+    "topics": ["Physical Geography", "Human Geography", "Cartography", "Geospatial Analysis", "Economic Geography", "Political Geography"],
+    "links": [
+      {"name": "National Geographic Education", "url": "https://www.nationalgeographic.org/education/"},
+      {"name": "OpenLearn Geography", "url": "https://www.open.edu/openlearn/science-maths-technology/geography"},
+      {"name": "MIT OCW Earth, Atmospheric, Planetary", "url": "https://ocw.mit.edu/courses/earth-atmospheric-and-planetary-sciences/"},
+      {"name": "Saylor Academy Physical Geography", "url": "https://learn.saylor.org/course/physical-geography/"},
+      {"name": "Coursera Free Geography Courses", "url": "https://www.coursera.org/browse/social-sciences/geography?free=true"},
+      {"name": "Khan Academy Human Geography", "url": "https://www.khanacademy.org/humanities/ap-human-geography"}
+    ]
+  },
+  {
+    "subject": "Languages & Linguistics",
+    "topics": ["English Grammar", "Italian", "Spanish", "German", "Finnish", "Phonetics", "Sociolinguistics"],
+    "links": [
+      {"name": "Duolingo", "url": "https://www.duolingo.com/"},
+      {"name": "BBC Languages", "url": "https://www.bbc.co.uk/languages/"},
+      {"name": "Clozemaster", "url": "https://www.clozemaster.com/"},
+      {"name": "MIT OCW Linguistics", "url": "https://ocw.mit.edu/courses/find-by-topic/#cat=humanities&subcat=linguistics"},
+      {"name": "OpenLearn Reading & Writing", "url": "https://www.open.edu/openlearn/languages"},
+      {"name": "Saylor Academy Linguistics", "url": "https://learn.saylor.org/course/linguistics/"}
+    ]
+  },
+  {
+    "subject": "Physics",
+    "topics": ["Mechanics", "Thermodynamics", "Electromagnetism", "Quantum Mechanics", "Relativity", "Statistical Physics", "Optics", "Astrophysics"],
+    "links": [
+      {"name": "Khan Academy Physics", "url": "https://www.khanacademy.org/science/physics"},
+      {"name": "MIT OCW Physics", "url": "https://ocw.mit.edu/courses/physics/"},
+      {"name": "OpenStax University Physics (textbook)", "url": "https://openstax.org/details/books/university-physics-volume-1"},
+      {"name": "HyperPhysics", "url": "http://hyperphysics.phy-astr.gsu.edu/"},
+      {"name": "Saylor Academy Physics", "url": "https://learn.saylor.org/course/physics/"},
+      {"name": "Coursera Free Physics Courses", "url": "https://www.coursera.org/browse/physical-science-and-engineering/physics?free=true"}
+    ]
+  },
+  {
+    "subject": "Chemistry",
+    "topics": ["General Chemistry", "Organic Chemistry", "Inorganic Chemistry", "Physical Chemistry", "Analytical Chemistry", "Biochemistry"],
+    "links": [
+      {"name": "Khan Academy Chemistry", "url": "https://www.khanacademy.org/science/chemistry"},
+      {"name": "MIT OCW Chemistry", "url": "https://ocw.mit.edu/courses/chemistry/"},
+      {"name": "OpenStax Chemistry (textbook)", "url": "https://openstax.org/details/books/chemistry"},
+      {"name": "LibreTexts Chemistry", "url": "https://chem.libretexts.org/"},
+      {"name": "Saylor Academy Chemistry", "url": "https://learn.saylor.org/course/chemistry/"},
+      {"name": "Coursera Free Chemistry Courses", "url": "https://www.coursera.org/browse/physical-science-and-engineering/chemistry?free=true"}
+    ]
+  },
+  {
+    "subject": "Biology",
+    "topics": ["Cell Biology", "Genetics", "Microbiology", "Ecology", "Neurobiology", "Evolution"],
+    "links": [
+      {"name": "Khan Academy Biology", "url": "https://www.khanacademy.org/science/biology"},
+      {"name": "MIT OCW Biology", "url": "https://ocw.mit.edu/courses/biology/"},
+      {"name": "OpenStax Biology (textbook)", "url": "https://openstax.org/details/books/biology"},
+      {"name": "NCBI Bookshelf", "url": "https://www.ncbi.nlm.nih.gov/books/"},
+      {"name": "Saylor Academy Biology", "url": "https://learn.saylor.org/course/biology/"},
+      {"name": "Coursera Free Biology Courses", "url": "https://www.coursera.org/browse/life-sciences/biology?free=true"}
+    ]
+  },
+  {
+    "subject": "Mathematics / Applied Mathematics",
+    "topics": ["Algebra", "Calculus", "Linear Algebra", "Differential Equations", "Statistics", "Complex Analysis"],
+    "links": [
+      {"name": "Khan Academy Math", "url": "https://www.khanacademy.org/math"},
+      {"name": "MIT OCW Mathematics", "url": "https://ocw.mit.edu/courses/mathematics/"},
+      {"name": "OpenStax Precalculus", "url": "https://openstax.org/details/books/precalculus"},
+      {"name": "Paul's Online Math Notes", "url": "https://tutorial.math.lamar.edu/"},
+      {"name": "Saylor Academy Calculus", "url": "https://learn.saylor.org/course/calculus/"},
+      {"name": "OpenStax Introductory Statistics", "url": "https://openstax.org/details/books/introductory-statistics"}
+    ]
+  },
+  {
+    "subject": "Computer Science",
+    "topics": ["Programming", "Algorithms", "Data Structures", "Operating Systems", "Machine Learning", "Networks"],
+    "links": [
+      {"name": "freeCodeCamp", "url": "https://www.freecodecamp.org/"},
+      {"name": "MIT OCW Computer Science", "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/"},
+      {"name": "OpenStax Computer Science (textbook)", "url": "https://openstax.org/details/books/computer-science-principles"},
+      {"name": "Saylor Academy Computer Science", "url": "https://learn.saylor.org/course/computer-science/"},
+      {"name": "Khan Academy Computer Programming", "url": "https://www.khanacademy.org/computing/computer-programming"},
+      {"name": "Coursera Free CS Courses", "url": "https://www.coursera.org/browse/computer-science?free=true"}
+    ]
+  },
+  {
+    "subject": "Environmental Science / Ecology",
+    "topics": ["Ecology", "Climate Change", "Sustainability", "Conservation Biology", "Pollution", "Environmental Policy"],
+    "links": [
+      {"name": "OpenStax Environmental Science", "url": "https://openstax.org/details/books/environmental-science"},
+      {"name": "MIT OCW Environmental Courses", "url": "https://ocw.mit.edu/courses/find-by-topic/#cat=environment"},
+      {"name": "OpenLearn Climate Change", "url": "https://www.open.edu/openlearn/nature-environment/climate-change"},
+      {"name": "Saylor Academy Environmental Science", "url": "https://learn.saylor.org/course/environmental-science/"},
+      {"name": "Coursera Free Sustainability Courses", "url": "https://www.coursera.org/browse/nature-environment/sustainability?free=true"},
+      {"name": "EPA Student Center Environmental Topics", "url": "https://www.epa.gov/students"}
+    ]
+  },
+  {
+    "subject": "Geology / Earth Science",
+    "topics": ["Mineralogy", "Structural Geology", "Seismology", "Hydrogeology", "Petrology", "Volcanology"],
+    "links": [
+      {"name": "USGS Education – Earth Science", "url": "https://www.usgs.gov/education/earth-science"},
+      {"name": "MIT OCW Earth, Atmospheric, Planetary", "url": "https://ocw.mit.edu/courses/earth-atmospheric-and-planetary-sciences/"},
+      {"name": "OpenStax Geology", "url": "https://openstax.org/details/books/geology"},
+      {"name": "Saylor Academy Geology", "url": "https://learn.saylor.org/course/geology/"},
+      {"name": "Coursera Free Earth Science Courses", "url": "https://www.coursera.org/browse/physical-science-and-engineering/earth-science?free=true"},
+      {"name": "OpenLearn Geology", "url": "https://www.open.edu/openlearn/science-maths-technology/geology"}
+    ]
+  },
+  {
+    "subject": "Biotechnology / Bioengineering",
+    "topics": ["Genetic Engineering", "Bioinformatics", "Cell Culture", "Protein Engineering", "Bioprocess Engineering", "Immunotechnology"],
+    "links": [
+      {"name": "NCBI – Biotechnology", "url": "https://www.ncbi.nlm.nih.gov/biotech/"},
+      {"name": "MIT OCW Biological Engineering", "url": "https://ocw.mit.edu/courses/biological-engineering/"},
+      {"name": "OpenStax Biology", "url": "https://openstax.org/details/books/biology"},
+      {"name": "Saylor Academy Biotechnology", "url": "https://learn.saylor.org/course/biotechnology/"},
+      {"name": "Coursera Free Bioengineering Courses", "url": "https://www.coursera.org/browse/life-sciences/biotechnology?free=true"},
+      {"name": "OpenLearn Bioinformatics", "url": "https://www.open.edu/openlearn/science-maths-technology/bioinformatics"}
+    ]
+  },
+  {
+    "subject": "Astronomy / Astrophysics",
+    "topics": ["Stellar Astronomy", "Cosmology", "Exoplanets", "Galactic Astronomy", "Astrophysical Dynamics", "High-Energy Astrophysics"],
+    "links": [
+      {"name": "MIT OCW Astrophysics", "url": "https://ocw.mit.edu/courses/physics/astrophysics/"},
+      {"name": "OpenStax Astronomy (textbook)", "url": "https://openstax.org/details/books/astronomy"},
+      {"name": "Khan Academy Cosmology & Astronomy", "url": "https://www.khanacademy.org/science/cosmology-and-astronomy"},
+      {"name": "Saylor Academy Astronomy", "url": "https://learn.saylor.org/course/astronomy/"},
+      {"name": "Coursera Free Astronomy Courses", "url": "https://www.coursera.org/browse/physical-science-and-engineering/astronomy?free=true"},
+      {"name": "OpenLearn Space Science", "url": "https://www.open.edu/openlearn/science-maths-technology/space-science"}
+    ]
+  },
+  {
+    "subject": "Neuroscience",
+    "topics": ["Cellular Neuroscience", "Systems Neuroscience", "Behavioral Neuroscience", "Computational Neuroscience", "Neuroanatomy", "Neurophysiology"],
+    "links": [
+      {"name": "MIT OCW Brain & Cognitive Sciences", "url": "https://ocw.mit.edu/courses/brain-and-cognitive-sciences/"},
+      {"name": "OpenStax Anatomy & Physiology", "url": "https://openstax.org/details/books/anatomy-and-physiology"},
+      {"name": "OpenLearn Neuroscience", "url": "https://www.open.edu/openlearn/science-maths-technology/neuroscience"},
+      {"name": "Coursera Free Neuroscience Courses", "url": "https://www.coursera.org/browse/life-sciences/neuroscience?free=true"},
+      {"name": "Saylor Academy Neuroscience", "url": "https://learn.saylor.org/course/neuroscience/"},
+      {"name": "Khan Academy Nervous System", "url": "https://www.khanacademy.org/science/health-and-medicine/nervous-system-disorders"}
+    ]
+  },
+  {
+    "subject": "Microbiology",
+    "topics": ["Bacteriology", "Virology", "Immunology", "Microbial Genetics", "Environmental Microbiology", "Pathogenic Microbiology"],
+    "links": [
+      {"name": "MIT OCW Microbiology", "url": "https://ocw.mit.edu/courses/biology/microbiology/"},
+      {"name": "OpenStax Biology", "url": "https://openstax.org/details/books/biology"},
+      {"name": "Saylor Academy Microbiology", "url": "https://learn.saylor.org/course/microbiology/"},
+      {"name": "Coursera Free Microbiology Courses", "url": "https://www.coursera.org/browse/life-sciences/microbiology?free=true"},
+      {"name": "OpenLearn Infection & Immunology", "url": "https://www.open.edu/openlearn/science-maths-technology/infection-immunity"},
+      {"name": "Khan Academy Immune System", "url": "https://www.khanacademy.org/science/health-and-medicine/human-anatomy-and-physiology/immune-system"}
+    ]
+  },
+  {
+    "subject": "Materials Science / Engineering",
+    "topics": ["Nanomaterials", "Crystallography", "Polymers", "Biomaterials", "Ceramics", "Electronic Materials"],
+    "links": [
+      {"name": "MIT OCW Materials Science", "url": "https://ocw.mit.edu/courses/materials-science-and-engineering/"},
+      {"name": "OpenStax Physics (materials)", "url": "https://openstax.org/books/university-physics-volume-2/pages/28-materials"},
+      {"name": "Saylor Academy Materials Science", "url": "https://learn.saylor.org/course/materials-science/"},
+      {"name": "Coursera Free Materials Engineering Courses", "url": "https://www.coursera.org/browse/physical-science-and-engineering/materials-engineering?free=true"},
+      {"name": "OpenLearn Nanotechnology", "url": "https://www.open.edu/openlearn/science-maths-technology/nanotechnology"},
+      {"name": "Khan Academy States of Matter & Materials", "url": "https://www.khanacademy.org/science/chemistry/states-of-matter-and-intermolecular-forces"}
+    ]
+  },
+  {
+    "subject": "Philosophy",
+    "topics": ["Ethics", "Logic", "Metaphysics", "Philosophy of Mind", "Political Philosophy", "Epistemology"],
+    "links": [
+      {"name": "MIT OCW Philosophy", "url": "https://ocw.mit.edu/courses/find-by-topic/#cat=humanities&subcat=philosophy"},
+      {"name": "OpenLearn Philosophy", "url": "https://www.open.edu/openlearn/philosophy-ethical-studies"},
+      {"name": "Saylor Academy Philosophy", "url": "https://learn.saylor.org/course/philosophy/"},
+      {"name": "Stanford Encyclopedia of Philosophy", "url": "https://plato.stanford.edu/"},
+      {"name": "Coursera Free Philosophy Courses", "url": "https://www.coursera.org/browse/arts-and-humanities/philosophy?free=true"},
+      {"name": "Khan Academy Logic", "url": "https://www.khanacademy.org/math/math-for-fun-and-glory"}
+    ]
+  },
+  {
+    "subject": "Anthropology",
+    "topics": ["Cultural Anthropology", "Archaeology", "Social Anthropology", "Linguistic Anthropology", "Biological Anthropology", "Ethnography"],
+    "links": [
+      {"name": "MIT OCW Anthropology", "url": "https://ocw.mit.edu/courses/find-by-topic/#cat=social-sciences&subcat=anthropology"},
+      {"name": "OpenLearn Anthropology", "url": "https://www.open.edu/openlearn/society-politics-law/anthropology"},
+      {"name": "Saylor Academy Cultural Anthropology", "url": "https://learn.saylor.org/course/cultural-anthropology/"},
+      {"name": "Coursera Free Anthropology Courses", "url": "https://www.coursera.org/browse/social-sciences/anthropology?free=true"},
+      {"name": "OpenStax Introduction to Anthropology", "url": "https://openstax.org/details/books/introduction-anthropology"},
+      {"name": "Khan Academy World History & Anthropology", "url": "https://www.khanacademy.org/humanities/world-history"}
+    ]
+  },
+  {
+    "subject": "Media Studies / Communication",
+    "topics": ["Mass Communication", "Digital Media", "Journalism", "Media Theory", "Public Relations", "Media Ethics"],
+    "links": [
+      {"name": "MIT OCW Comparative Media Studies", "url": "https://ocw.mit.edu/courses/find-by-topic/#cat=humanities&subcat=media-studies"},
+      {"name": "OpenLearn Media Studies", "url": "https://www.open.edu/openlearn/arts-culture/media-studies"},
+      {"name": "Saylor Academy Mass Communication", "url": "https://learn.saylor.org/course/mass-communication/"},
+      {"name": "Coursera Free Media Courses", "url": "https://www.coursera.org/browse/arts-and-humanities/media?free=true"},
+      {"name": "OpenStax Public Speaking (textbook)", "url": "https://openstax.org/details/books/public-speaking"},
+      {"name": "Khan Academy Journalism & News Literacy", "url": "https://www.khanacademy.org/college-careers-more/partner-content/news-literacy"}
+    ]
+  },
+  {
+    "subject": "Nepalese Law / Nepal Law",
+    "topics": [
+      "Constitution of Nepal", 
+      "Nepal Criminal Code", 
+      "Civil Code of Nepal", 
+      "Human Rights Law Nepal", 
+      "Administrative Law Nepal", 
+      "Intellectual Property Law Nepal"
+    ],
+    "links": [
+      {"name": "Guide to Law Online: Nepal – Library of Congress", "url": "https://guides.loc.gov/law-nepal"} , 
+      {"name": "Nepal Law Commission", "url": "http://www.lawcommission.gov.np/"} , 
+      {"name": "NepalLaws.com", "url": "https://nepallaws.com/"} , 
+      {"name": "Legal Literacy Nepal (LLN)", "url": "https://www.lln.org.np/"} , 
+      {"name": "Law Notes Nepal", "url": "https://www.lawnotesnepal.com/"} , 
+      {"name": "Supreme Court of Nepal (Wikipedia overview)", "url": "https://en.wikipedia.org/wiki/Supreme_Court_of_Nepal"} , 
+      {"name": "National Human Rights Commission Nepal", "url": "http://www.nhrcnepal.org/"} , 
+      {"name": "Copyright Law of Nepal (Wikipedia)", "url": "https://en.wikipedia.org/wiki/Copyright_law_of_Nepal"} 
+    ]
+  },
+  {
+    "subject": "International Law",
+    "topics": [
+      "Public International Law", 
+      "International Human Rights", 
+      "International Trade Law", 
+      "Law of the Sea", 
+      "International Criminal Law", 
+      "Diplomatic Law"
+    ],
+    "links": [
+      {"name": "MIT OCW International Law", "url": "https://ocw.mit.edu/courses/find-by-topic/#cat=law&subcat=international-law"}, 
+      {"name": "Cornell Legal Information Institute – International Law", "url": "https://www.law.cornell.edu/wex/international_law"}, 
+      {"name": "OpenLearn Law: International Law", "url": "https://www.open.edu/openlearn/law/international-law"}, 
+      {"name": "United Nations Treaty Collection", "url": "https://treaties.un.org/"}, 
+      {"name": "WorldLII – International Legal Information", "url": "http://www.worldlii.org/"}, 
+      {"name": "Saylor Academy International Law", "url": "https://learn.saylor.org/course/international-law/"}, 
+      {"name": "Coursera Free International Law Courses", "url": "https://www.coursera.org/courses?query=international%20law&free=true"}
+    ]
+  },
+  {
+    "subject": "Constitutional Law",
+    "topics": [
+      "Separation of Powers", 
+      "Constitutional Rights", 
+      "Judicial Review", 
+      "Federalism", 
+      "Constitutional Interpretation", 
+      "Amendment Procedure"
+    ],
+    "links": [
+      {"name": "MIT OCW Constitutional Law", "url": "https://ocw.mit.edu/courses/find-by-topic/#cat=law&subcat=constitutional-law"}, 
+      {"name": "Stanford Encyclopedia of Philosophy – Constitutional Law", "url": "https://plato.stanford.edu/entries/constitutional-law/"}, 
+      {"name": "OpenLearn Constitutional Law", "url": "https://www.open.edu/openlearn/society-politics-law/constitutional-law"}, 
+      {"name": "Saylor Academy Constitutional Law", "url": "https://learn.saylor.org/course/constitutional-law/"}, 
+      {"name": "Cornell LII – Constitutional Law", "url": "https://www.law.cornell.edu/wex/constitutional_law"}, 
+      {"name": "Public Domain Review – Landmark Constitutions", "url": "https://publicdomainreview.org/collections/historic-constitutions/"}
+    ]
+  },
+  {
+    "subject": "Criminal Law",
+    "topics": [
+      "General Principles of Crime", 
+      "Types of Crime", 
+      "Punishment", 
+      "Defenses", 
+      "Criminal Justice Process", 
+      "International Criminal Law"
+    ],
+    "links": [
+      {"name": "MIT OCW Criminal Law", "url": "https://ocw.mit.edu/courses/find-by-topic/#cat=law&subcat=criminal-law"}, 
+      {"name": "OpenLearn Criminal Justice", "url": "https://www.open.edu/openlearn/society-politics-law/crime-justice/criminal-justice"}, 
+      {"name": "Saylor Academy Criminal Law", "url": "https://learn.saylor.org/course/criminal-law/"}, 
+      {"name": "Cornell LII – Crimes", "url": "https://www.law.cornell.edu/wex/crime"}, 
+      {"name": "WorldLII – Criminal Law Library", "url": "http://www.worldlii.org/catalog/308.html"}, 
+      {"name": "Free Law Project / CourtListener", "url": "https://www.courtlistener.com/"}
+    ]
+  },
+  {
+    "subject": "Civil Law / Tort Law",
+    "topics": [
+      "Negligence", 
+      "Liability", 
+      "Damages", 
+      "Contract Tort Intersection", 
+      "Strict Liability", 
+      "Defamation"
+    ],
+    "links": [
+      {"name": "MIT OCW Comparative Civil Law", "url": "https://ocw.mit.edu/courses/find-by-topic/#cat=law"}, 
+      {"name": "OpenLearn Tort Law", "url": "https://www.open.edu/openlearn/society-politics-law/law/tort-law"}, 
+      {"name": "Saylor Academy Torts", "url": "https://learn.saylor.org/course/torts/"}, 
+      {"name": "Cornell LII – Tort", "url": "https://www.law.cornell.edu/wex/tort"}, 
+      {"name": "WorldLII – Tort Law Resources", "url": "http://www.worldlii.org/catalog/378.html"}, 
+      {"name": "Public Library of Law – Torts", "url": "http://www.plol.org/Pages/Search.aspx"}
+    ]
+  },
+  {
+    "subject": "Human Rights Law",
+    "topics": [
+      "International Human Rights", 
+      "Economic, Social and Cultural Rights", 
+      "Civil and Political Rights", 
+      "Rights in National Constitutions", 
+      "Refugee Rights", 
+      "Equality & Non‑discrimination"
+    ],
+    "links": [
+      {"name": "OHCHR – Human Rights", "url": "https://www.ohchr.org/en"}, 
+      {"name": "UN Human Rights Library", "url": "https://www.ohchr.org/en/hrbodies/ccpr/pages/library.aspx"}, 
+      {"name": "Saylor Academy Human Rights Law", "url": "https://learn.saylor.org/course/human-rights-law/"}, 
+      {"name": "OpenLearn Human Rights", "url": "https://www.open.edu/openlearn/society-politics-law/human-rights"}, 
+      {"name": "Stanford Encyclopedia – Human Rights", "url": "https://plato.stanford.edu/entries/rights-human/"} , 
+      {"name": "Legal Information Institute – Human Rights", "url": "https://www.law.cornell.edu/wex/human_rights"}
+    ]
+  },
+  {
+    "subject": "Corporate Law / Business Law",
+    "topics": [
+      "Company Formation", 
+      "Corporate Governance", 
+      "Mergers & Acquisitions", 
+      "Securities Law", 
+      "Shareholder Rights", 
+      "Corporate Finance Law"
+    ],
+    "links": [
+      {"name": "MIT OCW Corporate Governance", "url": "https://ocw.mit.edu/courses/find-by-topic/#cat=management&subcat=governance"}, 
+      {"name": "OpenLearn Business Law", "url": "https://www.open.edu/openlearn/money-business/business-studies/business-law"}, 
+      {"name": "Saylor Academy Corporate Governance", "url": "https://learn.saylor.org/course/corporate-governance/"}, 
+      {"name": "Cornell LII – Business Law", "url": "https://www.law.cornell.edu/wex/business_law"}, 
+      {"name": "World Bank – Corporate Governance", "url": "https://www.worldbank.org/en/topic/corporategovernance"}, 
+      {"name": "ISDC Free Corporate Law Course", "url": "https://www.isdc.org.uk/free-business-courses/company-law/"}
+    ]
+  },
+  {
+    "subject": "Environmental Law",
+    "topics": [
+      "Pollution Control", 
+      "Climate Change Law", 
+      "Biodiversity Law", 
+      "Sustainable Development Law", 
+      "Environmental Impact Assessment", 
+      "Water Law"
+    ],
+    "links": [
+      {"name": "MIT OCW Environmental Law", "url": "https://ocw.mit.edu/courses/find-by-topic/#cat=law&subcat=environmental-law"}, 
+      {"name": "OpenLearn Environmental Law", "url": "https://www.open.edu/openlearn/society-politics-law/law/environmental-law"}, 
+      {"name": "Saylor Academy Environmental Law", "url": "https://learn.saylor.org/course/environmental-law/"}, 
+      {"name": "IUCN Law & Policy", "url": "https://www.iucn.org/theme/law-and-governance"}, 
+      {"name": "UNEP – Environmental Law", "url": "https://www.unep.org/explore-topics/environmental-rule-of-law"}, 
+      {"name": "Legal Information Institute – Environmental Law", "url": "https://www.law.cornell.edu/wex/environmental_law"}
+    ]
+  },
+  {
+    "subject": "Intellectual Property Law",
+    "topics": [
+      "Copyright Law", 
+      "Patent Law", 
+      "Trademark Law", 
+      "Trade Secret", 
+      "Industrial Designs", 
+      "IP Enforcement"
+    ],
+    "links": [
+      {"name": "WIPO – Intellectual Property", "url": "https://www.wipo.int/portal/en/index.html"}, 
+      {"name": "Cornell LII – Intellectual Property", "url": "https://www.law.cornell.edu/wex/intellectual_property"}, 
+      {"name": "MIT OCW Patent Law", "url": "https://ocw.mit.edu/courses/find-by-topic/#cat=law&subcat=intellectual-property"}, 
+      {"name": "OpenLearn Intellectual Property", "url": "https://www.open.edu/openlearn/science-maths-technology/intellectual-property"}, 
+      {"name": "Saylor Academy Intellectual Property", "url": "https://learn.saylor.org/course/intellectual-property/"}, 
+      {"name": "EPO – European Patent Office Learning", "url": "https://www.epo.org/learning.html"}
+    ]
+  },
+  {
+    "subject": "Labor Law / Employment Law",
+    "topics": [
+      "Employment Contracts", 
+      "Minimum Wage Law", 
+      "Workers’ Rights", 
+      "Trade Unions Law", 
+      "Social Security Law", 
+      "Discrimination Law"
+    ],
+    "links": [
+      {"name": "MIT OCW Labor Economics & Law", "url": "https://ocw.mit.edu/courses/find-by-topic/#cat=economics&subcat=labor-economics"}, 
+      {"name": "Saylor Academy Employment Law", "url": "https://learn.saylor.org/course/employment-law/"}, 
+      {"name": "ILO – International Labour Law", "url": "https://www.ilo.org/global/standards/lang--en/index.htm"}, 
+      {"name": "OpenLearn Work & Employment", "url": "https://www.open.edu/openlearn/money-business/work-employment"}, 
+      {"name": "Cornell LII – Labor Law", "url": "https://www.law.cornell.edu/wex/labor_law"}, 
+      {"name": "UN Global Compact Labour", "url": "https://www.unglobalcompact.org/what-is-gc/our-work/labour"}
+    ]
+  },
+  {
+    "subject": "Criminal Justice / Criminology",
+    "topics": [
+      "Penology", 
+      "Police Law", 
+      "Corrections", 
+      "Juvenile Justice", 
+      "Victimology", 
+      "International Criminal Justice"
+    ],
+    "links": [
+      {"name": "OpenLearn Criminology", "url": "https://www.open.edu/openlearn/society-politics-law/crime-justice/criminology"}, 
+      {"name": "Saylor Academy Criminology", "url": "https://learn.saylor.org/course/criminology/"}, 
+      {"name": "MIT OCW Crime & Punishment", "url": "https://ocw.mit.edu/courses/find-by-topic/#cat=social-sciences&subcat=crime-and-punishment"}, 
+      {"name": "Cornell LII – Criminal Justice", "url": "https://www.law.cornell.edu/wex/criminal_justice"}, 
+      {"name": "United Nations Office on Drugs and Crime", "url": "https://www.unodc.org/"}, 
+      {"name": "Public Library of Law – Criminal Justice", "url": "http://www.plol.org/Pages/Search.aspx?SearchText=criminal+justice"}
+    ]
+  },
+  {
+    "subject": "Administrative Law",
+    "topics": [
+      "Rulemaking", 
+      "Judicial Review", 
+      "Public Administration Law", 
+      "Regulatory Law", 
+      "Administrative Agencies", 
+      "Transparency & Accountability"
+    ],
+    "links": [
+      {"name": "MIT OCW Public Law & Administration", "url": "https://ocw.mit.edu/courses/find-by-topic/#cat=law&subcat=public-law"}, 
+      {"name": "OpenLearn Public Administration", "url": "https://www.open.edu/openlearn/society-politics-law/public-policy-governance"}, 
+      {"name": "Saylor Academy Public Administration", "url": "https://learn.saylor.org/course/public-administration/"}, 
+      {"name": "Cornell LII – Administrative Law", "url": "https://www.law.cornell.edu/wex/administrative_law"}, 
+      {"name": "UNDP – Public Administration", "url": "https://www.undp.org/governance"}, 
+      {"name": "OECD Regulatory Policy", "url": "https://www.oecd.org/regreform/regulatory-policy/"}
+    ]
+  },
+  {
+    "subject": "Tax Law / Fiscal Law",
+    "topics": [
+      "Income Tax Law", 
+      "Corporate Tax", 
+      "VAT Law", 
+      "International Taxation", 
+      "Tax Avoidance Law", 
+      "Property Tax Law"
+    ],
+    "links": [
+      {"name": "MIT OCW Public Finance", "url": "https://ocw.mit.edu/courses/economics/14-581-public-finance-fall-2005/"}, 
+      {"name": "Saylor Academy Taxation", "url": "https://learn.saylor.org/course/taxation/"}, 
+      {"name": "Cornell LII – Tax Law", "url": "https://www.law.cornell.edu/wex/tax_law"}, 
+      {"name": "OECD Tax Policy", "url": "https://www.oecd.org/tax/"}, 
+      {"name": "International Bureau of Fiscal Documentation", "url": "https://www.ibfd.org/"}, 
+      {"name": "OpenLearn Public Finance", "url": "https://www.open.edu/openlearn/money-business/public-finance"}
+    ]
+  },
+  {
+    "subject": "Family Law",
+    "topics": [
+      "Marriage Law", 
+      "Divorce Law", 
+      "Child Custody", 
+      "Adoption Law", 
+      "Domestic Violence Laws", 
+      "Inheritance Law"
+    ],
+    "links": [
+      {"name": "OpenLearn Law – Family Law", "url": "https://www.open.edu/openlearn/society-politics-law/law/family-law"}, 
+      {"name": "Saylor Academy Family Law", "url": "https://learn.saylor.org/course/family-law/"}, 
+      {"name": "MIT OCW Family Law", "url": "https://ocw.mit.edu/courses/find-by-topic/#cat=law&subcat=family-law"}, 
+      {"name": "Cornell LII – Family Law", "url": "https://www.law.cornell.edu/wex/family_law"}, 
+      {"name": "UN Women – Gender Equality & Law", "url": "https://www.unwomen.org/en/what-we-do/peace-and-security/family-law"}, 
+      {"name": "WorldLII – Family Law Resources", "url": "http://www.worldlii.org/catalog/382.html"}
+    ]
+  },
+  {
+    "subject": "Dispute Resolution / ADR (Alternative Dispute Resolution)",
+    "topics": [
+      "Mediation", 
+      "Arbitration", 
+      "Negotiation", 
+      "Conciliation", 
+      "ADR in International Law", 
+      "Online Dispute Resolution"
+    ],
+    "links": [
+      {"name": "MIT OCW Negotiation & Mediation", "url": "https://ocw.mit.edu/courses/find-by-topic/#cat=management&subcat=negotiation"}, 
+      {"name": "UNCITRAL – Arbitration Rules", "url": "https://uncitral.un.org/arbitration"}, 
+      {"name": "OpenLearn Conflict Resolution", "url": "https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=82772"}, 
+      {"name": "Saylor Academy Conflict Resolution", "url": "https://learn.saylor.org/course/conflict-resolution/"}, 
+      {"name": "Cornell LII – Alternative Dispute Resolution", "url": "https://www.law.cornell.edu/wex/alternative_dispute_resolution"}, 
+      {"name": "Arbitration Academy (Free Resources)", "url": "https://www.arbitration-academy.com/free-resources/"}
+    ]
+  }
+]

@@ -1,0 +1,190 @@
+/* ...existing code... */
+*, *::before, *::after { box-sizing: border-box; }
+
+:root {
+    font-size: 16px;
+}
+
+body {
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+    margin: 20px auto;
+    padding: 0;
+    max-width: 900px;
+    background-color: #f9f9f9;
+    color: #333;
+    line-height: 1.5;
+}
+
+h1 {
+    color: #2c3e50;
+    text-align: center;
+    margin-top: 0;
+}
+
+h2 {
+    color: #34495e;
+    margin-top: 30px;
+}
+
+ul {
+    background-color: #fff;
+    padding: 1rem 1.25rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.08);
+    margin-bottom: 20px;
+    list-style-position: inside;
+}
+
+li {
+    margin-bottom: 0.6rem;
+}
+
+a {
+    color: #2980b9;
+    text-decoration: none;
+}
+
+a:hover,
+a:focus {
+    text-decoration: underline;
+    outline: 3px solid rgba(41,128,185,0.12); /* accessible focus */
+    outline-offset: 2px;
+}
+/* ...existing code... */
+.cheat-sheet {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 3px 7px rgba(0,0,0,0.15);
+    margin-bottom: 30px;
+}
+
+.cheat-sheet .section {
+    margin-bottom: 20px;
+}
+
+.cheat-sheet h3 {
+    background-color: #2980b9;
+    color: #fff;
+    padding: 8px 12px;
+    border-radius: 5px;
+}
+
+.cheat-sheet ul {
+    margin: 10px 0 0 20px;
+}
+
+.cheat-sheet pre {
+    background-color: #f4f4f4;
+    padding: 10px;
+    border-radius: 5px;
+    overflow-x: auto;
+}/* General Body */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+    background: linear-gradient(to bottom, #f9f9f9, #e6f0ff);
+    color: #333;
+}
+
+/* Main Title */
+h1 {
+    color: #1a237e; /* Dark blue */
+    text-align: center;
+    font-size: 3em;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+}
+
+/* Section Headings */
+h2 {
+    color: #0d47a1; /* Medium blue */
+    border-left: 6px solid #42a5f5; /* Blue side bar */
+    padding-left: 10px;
+    margin-top: 40px;
+    background-color: #e3f2fd; /* Light blue background */
+    border-radius: 5px;
+    padding: 10px 15px;
+}
+
+/* Cheat Sheet Subheadings */
+.cheat-sheet h3 {
+    background: linear-gradient(90deg, #ff8a65, #ffb74d); /* Gradient heading */
+    color: white;
+    padding: 8px 12px;
+    border-radius: 5px;
+    margin-bottom: 8px;
+}
+
+/* Lists */
+ul {
+    background-color: #fff;
+    padding: 15px 20px;
+    border-radius: 8px;
+    box-shadow: 0 3px 7px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+/* Links */
+a {
+    color: #1e88e5;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #1565c0;
+}
+
+/* Cheat Sheet Container */
+.cheat-sheet {
+    background-color: #fff8e1;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+    margin-bottom: 30px;
+}
+
+/* Code Blocks */
+.cheat-sheet pre {
+    background-color: #f4f4f4;
+    padding: 12px;
+    border-radius: 5px;
+    overflow-x: auto;
+    border-left: 4px solid #42a5f5;
+}
+
+/* Section spacing */
+.cheat-sheet .section {
+    margin-bottom: 25px;
+}
+/* Navigation Bar */
+.navbar {
+    background-color: #1976d2; /* Blue bar */
+    overflow: hidden;
+    border-radius: 8px;
+    margin-bottom: 25px;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 12px 20px;
+    font-weight: bold;
+    font-size: 1em;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.navbar a:hover {
+    background-color: #1565c0;
+    color: #ffeb3b;
+    border-radius: 5px;
+}
